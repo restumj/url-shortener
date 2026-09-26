@@ -17,6 +17,7 @@ html {
     display: grid;
     padding: 20px 10px;
     margin: 20px;
+    text-align: center;
 }
 
 .container p {
@@ -24,7 +25,7 @@ html {
     margin-bottom: 20px;
 }
 
-#url-input-container {
+#url-container {
     display: flex;
     justify-content: center;
 }
