@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+}
+
+html {
+    background-color: lightslategray;
+}
+
+#title {
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+    background-color: rgb(137, 148, 111);
+    border-radius: 7px;
+    display: grid;
+    padding: 20px 10px;
+    margin: 20px;
+}
+
+.container p {
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+#url-input-container {
+    display: flex;
+    justify-content: center;
+}
